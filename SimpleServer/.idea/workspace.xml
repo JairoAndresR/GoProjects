@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="821d99c3-bb8b-4cc9-a98f-fb3abc202b61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/simple_server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,9 +82,25 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="471" y="142" key="FileChooserDialogImpl" timestamp="1604697049728">
+    <state x="471" y="142" key="FileChooserDialogImpl" timestamp="1604700518308">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="471" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1604697049728" />
+    <state x="471" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1604700518308" />
+    <state width="1320" height="184" key="GridCell.Tab.0.bottom" timestamp="1604700524146">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1604700524146" />
+    <state width="1320" height="184" key="GridCell.Tab.0.center" timestamp="1604700524144">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1604700524144" />
+    <state width="1320" height="184" key="GridCell.Tab.0.left" timestamp="1604700524142">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1604700524142" />
+    <state width="1320" height="184" key="GridCell.Tab.0.right" timestamp="1604700524146">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1604700524146" />
   </component>
 </project>
